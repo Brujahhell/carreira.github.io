@@ -48,7 +48,7 @@
             <input class="input-form text-input" name="feedback4" placeholder="Qual seria a dificuldade?" required>
         </div>
         <div class="linha1">
-            <input class="input-form text-input" name="feedback5" placeholder="Você indicaria a Se7en para outra pessoa?" required>
+            <input class="input-form text-input" name="feedback5" placeholder="Você indicaria a Escola Profissionalizante para outra pessoa?" required>
         </div>
     </div>
     <div class="linha1">
